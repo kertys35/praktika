@@ -1,0 +1,7 @@
+C:\Users\Papa\Desktop\Программирование семестр 3\практика\kutsovaya_Trishin\Debug\kutsovaya_Trishin.vcxproj.AssemblyReference.cache
+C:\Users\Papa\Desktop\Программирование семестр 3\практика\kutsovaya_Trishin\Debug\kutsovaya_Trishin.Form1.resources
+C:\Users\Papa\Desktop\Программирование семестр 3\практика\kutsovaya_Trishin\Debug\kutsovaya_Trishin.MyForm.resources
+C:\Users\Papa\Desktop\Программирование семестр 3\практика\kutsovaya_Trishin\Debug\kutsovaya_Trishin.vcxproj.GenerateResource.cache
+C:\Users\Papa\Desktop\Программирование семестр 3\практика\kutsovaya_Trishin\Debug\kutsovaya_Trishin.exe
+C:\Users\Papa\Desktop\Программирование семестр 3\практика\kutsovaya_Trishin\Debug\kutsovaya_Trishin.Help_note.resources
+C:\Users\Papa\Desktop\Программирование семестр 3\практика\kutsovaya_Trishin\Debug\kutsovaya_Trishin.gameplay.resources

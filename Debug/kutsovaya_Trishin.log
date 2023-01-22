@@ -1,0 +1,4 @@
+﻿  gameplay.cpp
+C:\Users\Papa\Desktop\Программирование семестр 3\практика\kutsovaya_Trishin\gameplay.cpp(160,21): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  kutsovaya_Trishin.vcxproj -> C:\Users\Papa\Desktop\Программирование семестр 3\практика\kutsovaya_Trishin\Debug\kutsovaya_Trishin.exe
