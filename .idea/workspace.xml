@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="snake game:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cb46730-8124-4557-ad50-4a2abde55941" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../AssemblyInfo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CppCLR_WinformsProjekt.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../File_error.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../File_error.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../File_error.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Form1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Form1.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Form1.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin1.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin1.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../students.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../students.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../students.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/lab 2/.vs/lab 2/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../2/lab 2/.vs/lab 2/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/lab 2/.vs/lab 2/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../2/lab 2/.vs/lab 2/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/lab 2/.vs/lab 2/v16/ipch/AutoPCH/f85313bc67b3b844/LAB 2.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../2/lab 2/.vs/lab 2/v16/ipch/AutoPCH/f85313bc67b3b844/LAB 2.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/lab 2/lab 2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2/lab 2/lab 2.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Kg8X3gRr5t82c1v7LIgkmkC221" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "android.project.structure"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cb46730-8124-4557-ad50-4a2abde55941" name="Changes" comment="" />
+      <created>1674384905246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674384905246</updated>
+    </task>
+    <servers />
+  </component>
+</project>
